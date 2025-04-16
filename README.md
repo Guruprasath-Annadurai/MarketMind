@@ -15,7 +15,7 @@
 
 ## 🧱 Tech Stack
 
-- **Frontend**: Rork.app, React, Tailwind, Firebase Auth
+- **Frontend**: React, Tailwind, Firebase Auth
 - **Backend**: Flask, Scikit-learn, XGBoost, MongoDB
 - **Cloud**: AWS EC2/S3, Render, Power BI Embedded
 - **DevOps**: Docker, GitHub Actions, CI/CD
